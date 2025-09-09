@@ -15,9 +15,9 @@ const Experience = () => {
             company: "Udit Kunj Foundation",
             period: "1 July 2025 – 25 July 2025",
             description: [
-                "Assisted in organizing and executing plantation drives to promote environmental awareness.",
-                "Contributed to community outreach programs encouraging sustainable living practices.",
-                "Documented activities and maintained records of saplings planted and volunteers engaged."
+            "Supported awareness campaigns and counseling sessions aimed at promoting drug-free living.",
+            "Assisted in organizing workshops and community programs to educate individuals on rehabilitation and recovery.",
+            "Maintained records of participants, sessions, and progress reports to aid in effective program management."
 
             ],
             certificateLink: "https://drive.google.com/file/d/1Vb6MOWW1xkvTIDlhssdhcbyNEzYzM9aD/view"
