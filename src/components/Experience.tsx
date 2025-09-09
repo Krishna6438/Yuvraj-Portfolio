@@ -15,9 +15,10 @@ const Experience = () => {
             company: "Udit Kunj Foundation",
             period: "1 July 2025 – 25 July 2025",
             description: [
-                "Built a React-based URL shortener app with logging middleware integration.",
-                "Implemented responsive UI with Tailwind and ensured accessibility.",
-                "Worked with REST APIs for URL persistence and analytics."
+                "Assisted in organizing and executing plantation drives to promote environmental awareness.",
+                "Contributed to community outreach programs encouraging sustainable living practices.",
+                "Documented activities and maintained records of saplings planted and volunteers engaged."
+
             ],
             certificateLink: "https://drive.google.com/file/d/1Vb6MOWW1xkvTIDlhssdhcbyNEzYzM9aD/view"
         },
