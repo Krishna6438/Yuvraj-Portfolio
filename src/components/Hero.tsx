@@ -87,7 +87,7 @@ const Hero = () => {
               onClick={() => scrollToSection('#contact')}
               className="bg-white text-primary hover:bg-blue-50 px-8 py-3 text-lg font-semibold"
             >
-              Hire Me
+              Contact Me
             </Button>
             <a
               href="https://drive.google.com/file/d/1m81-S6hbdi9wWfrPTiC6RRqBf41mYZgS/view"
