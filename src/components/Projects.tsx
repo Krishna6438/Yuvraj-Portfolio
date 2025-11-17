@@ -31,6 +31,15 @@ const Projects = () => {
       liveDemo: "#",
       github: "https://github.com/yuviikhatkar07/Student-management-system",
     },
+    {
+    title: "Movie Mania",
+    description:
+      "A movie ticket booking platform where users can explore movies, check showtimes, choose seats, and book tickets with an intuitive interface.",
+    image: "./public/mm.jpg",
+    tech: ["Html", "CSS","Javascript"],
+    liveDemo: "https://moviemania112.vercel.app/",
+    github: "https://github.com/yuviikhatkar07/MovieMania",
+},
   ];
 
   const containerVariants = {
